@@ -5,4 +5,4 @@ pip install -r requirements.txt
 
 Step 2:
 Change to PyMario
-run "python Mario_Bros.py" on terminal
+run "python Mario_Bros.py" in the terminal
